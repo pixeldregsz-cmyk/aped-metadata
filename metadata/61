@@ -1,0 +1,59 @@
+{
+  "name": "ApEd #61 — SLATS",
+  "description": "Sees everything through the slats. Says nothing about any of it.",
+  "image": "ipfs://QmQhZ44tVN6C6iwx9p9d6VmPy8sxihDanH93VaEb3RMwKY",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep burgundy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "honey blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black bandana"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "shutter shades"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "blunt"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

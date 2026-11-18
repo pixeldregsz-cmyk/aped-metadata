@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #329 — BREAKWATER",
+  "description": "A breakwater is the stone wall the sea spends itself on. Dark brown, hazel-eyed, flask gripped on slate — massive, younger, and holding the harbour.",
+  "image": "ipfs://QmQmSUaJMcqQuS1aaiV8vX5fJPwNdahkCdLxRYT1jeFYS9",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

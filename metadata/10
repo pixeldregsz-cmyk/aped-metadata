@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #10 — SCAR",
+  "description": "One scar, one match. He is in no rush to strike it.",
+  "image": "ipfs://QmVP2bM2KR7Y9hg8gmYRxVCN1vVHrEVhLZuhWkqPHogk4n",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep charcoal-plum"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark mahogany"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black biker leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "dark calm"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "matchstick"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #310 — MAUVE",
+  "description": "Mauve is the dusty rose that refused to be pink. Light tan, ice-blue eyes, ace pinched, stitches showing — athletic, young, and soft only as a decision.",
+  "image": "ipfs://QmW2f8AfsPHYHWEsAi2QssUJpAMCr95ttxNYPQ6cJmhjZQ",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "light tan"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-mustard"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

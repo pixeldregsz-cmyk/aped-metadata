@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #303 — BISQUE",
+  "description": "Bisque is clay after its first firing — light tan, unglazed, stronger than it looks. Light tan, steel-grey eyes, the toad-stamped coin offered on terracotta — wiry, young, and only half finished on purpose.",
+  "image": "ipfs://QmPSHVXW5WPVzj4QgfSc2nRKoq6fPM5eGBXLWH8uDGNANK",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "light tan"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-gold"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

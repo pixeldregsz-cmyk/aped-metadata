@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #84 — AVALANCHE",
+  "description": "Built like weather coming down a mountain. Things move around him instead.",
+  "image": "ipfs://QmSoAC7xe3dmzYBAaL5TCDucH9ZkCf7ArCnM2dvGQ3fF7a",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "royal blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "pale grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "orange-and-black panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "rust beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

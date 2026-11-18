@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #402 — ROBIN",
+  "description": "A robin sings first, red-breasted, up before the light. Auburn-red, amber-eyed, dice offered on ochre — lean, younger, and the morning's opening bet.",
+  "image": "ipfs://QmT565gqJTesA96uWiHukuk4sy2D21XxZpQimvUmeswk2P",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "auburn-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "mustard knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

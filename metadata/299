@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #299 — QUARRY",
+  "description": "A quarry is the pit the blocks come out of. Grey-brown, hazel-eyed, flask gripped against the slate — massive, young, and the source, not the product.",
+  "image": "ipfs://QmP6whu484DnLrFC8WGQgNxNkVLHZtCntFvqnFb67su8sq",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

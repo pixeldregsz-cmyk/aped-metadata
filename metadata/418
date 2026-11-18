@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #418 — OTTER",
+  "description": "An otter is the dark swimmer that treats the river as a playground and its food as a game. Dark brown, amber-eyed, dice offered on ochre — athletic, middle-aged, and already mid-game.",
+  "image": "ipfs://QmUs7zW2j8TijRH9q5zxkn1q66aL23hUd4yQAMqMRX1V5R",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-gold"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

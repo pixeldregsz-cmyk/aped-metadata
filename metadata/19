@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #19 — SUGAR RIOT",
+  "description": "Cream-blonde under a pink cap. The cigar is not a prop.",
+  "image": "ipfs://QmNsoSkTh7pW5WXwHM8EBdcX2xYJVwdjPyvw4pwWLMpb5D",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "warm charcoal"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "pale cream-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "white-and-red racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards pink cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "petite"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "earrings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #385 — WINTER",
+  "description": "Winter is the season that grips and does not let go early. Dark brown, ice-blue eyes, the watch gripped chained on brick red — lean, older, and keeping the cold hours.",
+  "image": "ipfs://QmbFQKENmU8wGP4yyZdghrazHXh1soox1Vqo9aDDX6oxbF",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "rust knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

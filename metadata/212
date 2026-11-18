@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #212 — UMBRA",
+  "description": "The umbra is the darkest part of a shadow, the part nothing gets through. His coin's stamp came up a raised toad in relief — he calls that a coin that has been carried.",
+  "image": "ipfs://QmSpjwaimr584tHA41dbTqvTb8FzVZrErm4e27aeJ9426y",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "lavender"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "deep umber"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "brown flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #154 — OXIDE",
+  "description": "Rust on everything, including him. Weathered at the same rate as the jacket.",
+  "image": "ipfs://QmP1vzyyDJ853QwZxeD1nKYPahRCcwbcHF7BQGDczENFSQ",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "rust-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "dark green flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #139 — BOILERPLATE",
+  "description": "Half his head is steel and the flesh hand still holds the cigar the way it always did.",
+  "image": "ipfs://QmUuJKW835AefGsZ8Z21Y54BxcYs7i8AqBYKzq5e8wTbia",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate blue-black"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark charcoal"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber, bare (frame-left); mechanical lens, glowing amber ring (frame-right)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "special — brushed steel machine plate over the frame-right half of the head and jaw; segmented gunmetal machine arm (frame-right); metal chest with a glowing amber sternum port"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

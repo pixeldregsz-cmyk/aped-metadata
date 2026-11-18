@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #276 — HUMUS",
+  "description": "Humus is the dark finished earth everything living starts from. Dark brown, bloodshot red eyes unbothered, thick cigar — nothing is wasted around him; it is all just early.",
+  "image": "ipfs://QmTPCRgJKrXyhLtAmm3vagwPsdCZM6A9sSNhf9byhTGLa8",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-ochre"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "bloodshot red"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

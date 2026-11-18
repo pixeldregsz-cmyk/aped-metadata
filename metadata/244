@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #244 — OSPREY",
+  "description": "The osprey watches longer than anything on the shoreline, then comes down once. Silver-grey on seafoam, cigarette to one ember — age only made her pickier about the water.",
+  "image": "ipfs://QmX8QbAEGZvgG9AK3CVD389MmXRVJ5BBe2fNhnMEww85FJ",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "seafoam"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

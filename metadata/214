@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #214 — POPPY",
+  "description": "Red cap backwards, red canvas open — poppy is the colour worn at full volume. The record in her palm is not a request; it is the announcement.",
+  "image": "ipfs://QmS6YoAJcWnAVQ1wdgPor4iFo8VwkfUyanYqxKvS4wE8kY",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "sand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "honey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "red canvas"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "red backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

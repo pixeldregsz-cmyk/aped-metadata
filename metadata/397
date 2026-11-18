@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #397 — SAPLING",
+  "description": "A sapling is the young chestnut tree before the canopy, all bend and reach, too green to snap. Chestnut, amber-eyed, cigar to one ember on cream — lean, younger, and still growing toward the light.",
+  "image": "ipfs://QmXZkHAQw7nnD4SmhTdUwcyffaUYzoUuYbzeRF4cyMxASz",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #426 — HOBO",
+  "description": "A hobo is the traveller who works his way, owning nothing he cannot carry and owing nothing he cannot walk away from. Sandy grey, hazel-eyed, harmonica gripped on brick red — wiry, middle-aged, and the whole estate played nightly.",
+  "image": "ipfs://QmdxBgXY2qRd2fKFf6MqGxb8eBuM9ZrbSycZ6xmjsvfgGV",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

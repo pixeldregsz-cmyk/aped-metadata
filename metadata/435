@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #435 — SHADOW",
+  "description": "A shadow is the proof of a man standing in light, arriving when he arrives and never once announced. Dark brown, hazel-eyed, watch gripped by its case on brick red — lean, older, and holding time by the body.",
+  "image": "ipfs://QmeJA3Ur4JkcfyFr4VzJHLJ9PJGoUBrv1xTYZm4K7R3Qrm",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-teal , as delivered"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "navy bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel, reading warm amber-hazel as delivered"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

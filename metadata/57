@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #57 — SKELETON KEY",
+  "description": "Every door in the county has met him.",
+  "image": "ipfs://QmUvDKBkem4NBpuC8BTNxU77fW3CjZe2SdqRs44BhCpyCy",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale sage"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "tan-and-black racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "bloodshot red-amber, bloodshot"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

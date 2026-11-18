@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #199 — GOLIATH",
+  "description": "The watch is small in his hand and he holds it like it might get crushed by accident. Everything about him is oversized except his carelessness, which he keeps to none.",
+  "image": "ipfs://QmPoVsWtYybjVvCwVzmhnCUaqx6KHgJommBc4NTkhTmzBm",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #401 — SLICK",
+  "description": "Slick is the finish that slides, nothing catching on it. Light brown, hazel-eyed, ace pinched on indigo — wiry, younger, and already there.",
+  "image": "ipfs://QmTULpU4owW4bvh4ga4hp6J62AeUj8vgpcaJeJsv9mqnDf",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "light brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-gold , gold panels with a light sheen as delivered"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

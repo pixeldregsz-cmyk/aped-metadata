@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #302 — APRICOT",
+  "description": "An apricot is the pale gold fruit that ripens all at once in the heat. Ash-blond, brown-eyed, cigarette to one ember against the saturated field — lean, older, and suddenly ready.",
+  "image": "ipfs://QmY4tpx9is5XBY99oX8rYevaVWPBPiF2DRUTdhzqfPmqLR",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon, saturated melon-orange as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "tan flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

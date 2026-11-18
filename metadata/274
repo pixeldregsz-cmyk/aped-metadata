@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #274 — MAGPIE",
+  "description": "A magpie is the black bird with the silver flash that collects bright things and remembers where every one is buried. Silver-streaked black, hazel-eyed, the coin offered — she will miss none and forget none.",
+  "image": "ipfs://QmeUsxogbxfobboiB4CdNeHRrw81LbErK1R56UETH7vVWH",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-streaked black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy braided headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

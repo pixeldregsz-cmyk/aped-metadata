@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #416 — SINEW",
+  "description": "Sinew is the cord that does the work, the tough tendon tying muscle to bone with no ornament at all. Grey-brown, bloodshot-eyed, cigar gripped on pale gold — wiry, older, and still holding.",
+  "image": "ipfs://QmYfvpnqHbAijWCiJCgvHscyLycHirUCJJeAVetUKFic7T",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale gold"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "bloodshot red, heavy veining"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

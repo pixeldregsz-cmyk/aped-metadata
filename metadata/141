@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #141 — LITTLE FUSE",
+  "description": "Small pepper, long fuse. She watches your face when you take it.",
+  "image": "ipfs://QmcgnkvbdxK8iNbfDfAs571Waw3Y9hsFwkYRvZU6XqZF3u",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "warm grey"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "grey tank under black-and-red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "chili pepper"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

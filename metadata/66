@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #66 — REDCAP",
+  "description": "The flask comes out. The story gets better and less true.",
+  "image": "ipfs://QmZtDP38LjxKteaFkj6FueSMRfyQaU3D3tuNraHBCHmCzC",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale sky blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chocolate brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy-and-black panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "red backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "heavy-lidded amber, heavy-lidded"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

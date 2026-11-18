@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #151 — RED DIRT",
+  "description": "He plays like the road owes him a song and he is collecting in instalments.",
+  "image": "ipfs://QmaWxUbQZGThVsiVWS9o1zsmZTF2NLZvwjyKnZwEAT3irv",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

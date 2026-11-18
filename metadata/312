@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #312 — TOBACCO",
+  "description": "Tobacco is the leaf that has to be cured before it is worth anything. Red-brown, brown-eyed, cigarette to one ember on ochre — wiry, middle-aged, and not green anymore.",
+  "image": "ipfs://QmTGBU8YCXEFeZvaojRWwm9ewxAJ3N7Nkhpc7iEmoFsCqx",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "red-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

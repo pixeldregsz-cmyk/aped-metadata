@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #112 — LEMON DROP",
+  "description": "Sweet name, sour delivery. She treats being younger than the table as their problem.",
+  "image": "ipfs://QmX2sAZtXrFDqytCdYcs6ptapwbTX3ZMdYiiSNf94VczzH",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "lemon yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black nylon over a white tee"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

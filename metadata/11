@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #11 — THE COLLECTOR",
+  "description": "Silver in her hair, steel in her books. The suit is not a costume.",
+  "image": "ipfs://QmTH59a3CwuWDr1sErX9ht77qNpyRvYNT1Y23UV84VN37z",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep bronze-brown"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "still carries grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-grey pinstripe suit"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #277 — KHAKI",
+  "description": "Khaki is the dusty tan cloth named for dust itself. Light tan, green-eyed, the ace pinched like orders already read — he does not stand out; that has always been the assignment.",
+  "image": "ipfs://Qmf4KXHDVKay3oSuQcDmXbRCwvvb5t5kD3cR4HnyF2wtzK",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "light tan"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "rust backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

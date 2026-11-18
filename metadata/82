@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #82 — LOW ROLLER",
+  "description": "Copper fur, copper luck. The stakes stay small on purpose.",
+  "image": "ipfs://QmSDVhvx6hQarW5qeknJtBc6mFfVyYuD6JqYnzQEo1YUzE",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "copper"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-olive panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green, lightly bloodshot"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

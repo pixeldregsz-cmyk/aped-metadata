@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #8 — GOLD FANG",
+  "description": "One gold tooth and a lopsided grin. Young and certain.",
+  "image": "ipfs://QmcWtux2WwS3gXqUi5ehaeSsw1Dnz4rn9VZWXWhJUFTHRZ",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "burnt rust-orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "slate blue-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "deep navy racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "faded red cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice-blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "blunt"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "gold tooth"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

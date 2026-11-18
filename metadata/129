@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #129 — NIGHT PRESSING",
+  "description": "He handles vinyl like it owes him money and he is collecting gently.",
+  "image": "ipfs://QmSneFsaaWGC1QChfA9Z4njqb9MrvLxvuvFdxqwMCpF2Ck",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "midnight blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark grey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "tan-and-burgundy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel, heavy-lidded"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

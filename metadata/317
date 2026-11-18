@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #317 — DIJON",
+  "description": "Dijon is the mustard that stopped apologising. Sandy-brown, green-eyed, ace pinched on cream, rings at his lip — lean, young, and measured, not spilled.",
+  "image": "ipfs://QmZ7XP88PNvGFs58696ZhD7JZcdWMLXpR72Cr8Y1zkTYZT",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-mustard"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

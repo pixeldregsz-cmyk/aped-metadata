@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #342 — ARROYO",
+  "description": "An arroyo is the dry gully the desert rain cuts and leaves. Sandy grey, brown-eyed, cigarette to one ember on ochre — lean, middle-aged, and holding one coal of weather.",
+  "image": "ipfs://QmePnzRTU6LT1mNLYZhovsMCNVHgGzABSTtAXoUAPgnnMo",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

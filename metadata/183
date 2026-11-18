@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #183 — BEND",
+  "description": "He bends notes the way he bends conversations — slowly, and further than expected. The young players play faster; he plays the note they wanted.",
+  "image": "ipfs://QmPNmuY9UT48ajj3AfFgozwJzLQJ9ni5wrZM88iB7zvfRv",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

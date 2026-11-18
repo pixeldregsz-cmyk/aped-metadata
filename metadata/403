@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #403 — ECRU",
+  "description": "Ecru is the colour of cloth before the dye, honest and unbleached. Ash-blond, brown-eyed, cigarette to one ember on melon — athletic, middle-aged, and the cloth underneath every fashion.",
+  "image": "ipfs://QmVRSSDA39bWeu4LRy9tWYJNfvDzcwFnBZhQoKeNJEqENe",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "navy knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

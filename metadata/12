@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #12 — SANDSTORM",
+  "description": "Freckles and a teal cap. Faster than he looks.",
+  "image": "ipfs://QmZErgH9NM1uf1WCLX8jPTnmU3gTiUVeuuLJL3pPHYiuQw",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep slate blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "grey-and-orange racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "narrow knowing"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "blunt"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

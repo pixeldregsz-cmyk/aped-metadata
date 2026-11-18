@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #176 — AFTERMATH",
+  "description": "One eye swollen shut, the other on you, level as a countertop. He lit the cigar anyway. Whatever happened happened yesterday.",
+  "image": "ipfs://QmQqTEjSQxydjbUw5XU838Wct72ARtZiAHTLNJESSgojA1",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "warm grey"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey (frame-left, on the lens); black eye — bruised and swollen nearly shut (frame-right)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "black eye (frame-right)"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

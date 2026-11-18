@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #192 — ESCAPEMENT",
+  "description": "She offers the watch open, gears showing — she trusts people who show their workings. Nothing about her is wound too tight, and nothing runs fast.",
+  "image": "ipfs://QmdUVRxXA9FMwubizW2ULcEc3a7C4HQzPhYi9FqWvqRVEZ",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark auburn"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #286 — WHEAT",
+  "description": "Wheat is the sandy gold that feeds everybody and belongs to nobody. Sandy-brown, green-eyed, thick cigar — cut him down in autumn; the field has already decided about spring.",
+  "image": "ipfs://QmSqSLpsZ3Qm2ZDZuf2dT7Gk9kpZAM1cgP6vzdvxEUAced",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

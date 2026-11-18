@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #190 — DEUCE",
+  "description": "He grips the dice like they owe him bus fare, built like the house and rolling like the help. His odds are whatever he feels like.",
+  "image": "ipfs://QmbLzQbjaythWm8sRHc1BgpZSXDDRNB3EMHsgCJjdoUs7e",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "mustard headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

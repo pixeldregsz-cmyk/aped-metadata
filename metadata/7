@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #7 — BLACK WIDOW",
+  "description": "Unimpressed since birth. Gold thread, level gaze.",
+  "image": "ipfs://QmQA3W4416Q5kQ4QvyyifJZaxv2YyXntuK4EkP3ZzDh6EG",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep cobalt blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sleek black-cherry"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "pearl-white and black racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green-hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "blunt"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "earrings; nose ring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

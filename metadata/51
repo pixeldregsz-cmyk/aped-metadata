@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #51 — VELVET HAMMER",
+  "description": "Reads the room through round lenses and files it away.",
+  "image": "ipfs://QmXAV41U7JE4pHd7iTozKPLt2HaYJE58FTpNgbGAYYAKKs",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "copper-brown"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "deep plum leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "with amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "round clear spectacles"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "petite"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "earrings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #79 — REED",
+  "description": "Young and lean, playing the harmonica like he is killing time on a porch that owes him money.",
+  "image": "ipfs://QmbLx3E7cxKkeSXd9T97n8iU9cXsrtAQWYrBBW28tSbAjJ",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "straw blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "denim blue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "white bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #170 — MERIDIAN",
+  "description": "She offers the watch with the lid open. At her age, hiding the time is a young woman's game.",
+  "image": "ipfs://Qmcx7wyjiDaNpfBpoBv3WvN9fcqiSYBmjXheBDX8vzryyb",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-white"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

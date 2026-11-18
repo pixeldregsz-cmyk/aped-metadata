@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #95 — WILD CARD",
+  "description": "She pinches the ace casual as a grocery list. The table still thinks she is bluffing.",
+  "image": "ipfs://QmUfd8EFDxpUJ5JWb28LeJACAbghZxurr8dpBr8h4Q8AWc",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "copper-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "maroon leather over a grey tank"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

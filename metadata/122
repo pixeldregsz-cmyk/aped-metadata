@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #122 — HALF LIGHT",
+  "description": "One eye milked over, the other amber and exact. He watches twice as hard.",
+  "image": "ipfs://QmPhe3NyfcaUxVpLRhUB7j9MrEiMFLCPZZpq4CVacurzTd",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "rust orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "mousy grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "brown-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "navy beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "milky blind (frame-right); amber (frame-left)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "blind eye"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

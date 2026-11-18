@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #258 — TOFFEE",
+  "description": "Toffee is the dark sweet that takes its time — work it slow and it gives. Dark brown, amber-eyed, the coin resting in her palm — sweet is the first thing people say about her, rarely the last.",
+  "image": "ipfs://QmeSHoknhSfic6DNtid6K9fEUj98gMUAJd9mrqa4i9Gon1",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale mint"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-mustard"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "mustard beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

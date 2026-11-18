@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #229 — WALNUT",
+  "description": "Walnut is the deep brown wood that darkens where hands touch it. Amber eyes, bare head, flask gripped — nothing on him is decoration.",
+  "image": "ipfs://QmXkNthmTXMkZNmiXysNi8LdwaZdGkWx2whbs8vwkYR1x4",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "deep brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "teal-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

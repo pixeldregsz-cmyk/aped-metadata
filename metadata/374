@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #374 — GRAPHITE",
+  "description": "Graphite is the grey-black lead that writes and erases. Black silver-streaked, amber-eyed, the record offered on dusty blue — wiry, middle-aged, and drawn in two tones.",
+  "image": "ipfs://Qma7Ynk1JNmC6GkBJNuPtKQhAN7PYFQH18uHX8mThKbjv1",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black, streaked with silver"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

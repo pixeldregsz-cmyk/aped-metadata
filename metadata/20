@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #20 — BLACKJACK",
+  "description": "One gold tooth in a closed smirk. He lets you talk first.",
+  "image": "ipfs://QmSzHy9k7UucL3wffvz8q2HwWUg2GZsBRx6XgUsCq23QU5",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "jet-black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "chocolate-brown leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "blunt"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "gold tooth"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

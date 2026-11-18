@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #429 — COLOSSUS",
+  "description": "A colossus is the statue that strides the harbour, the giant whole ages measure themselves against. Grey-white, amber-eyed, flask gripped on deep indigo — massive, older, and still standing.",
+  "image": "ipfs://QmWSiaW53dzHxccxr5EjoZg96TPukAFvuXqPaGMsVXei2y",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep indigo, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-white"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "brown fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

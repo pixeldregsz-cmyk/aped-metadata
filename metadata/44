@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #44 — SNAKE EYES",
+  "description": "Winks once. Rolls anyway.",
+  "image": "ipfs://QmWNWZJKneC1rDfgyiatrnwJrfwgC3h6mh3qEi4B23FH1k",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "plum"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "faded-blue denim"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards olive cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "wink"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

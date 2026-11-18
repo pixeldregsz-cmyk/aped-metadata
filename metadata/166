@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #166 — NOIR",
+  "description": "He dresses like the film was black and white even though it isn't. The flask comes out gripped, not offered.",
+  "image": "ipfs://QmRWCQYBibE2NDQf3xnFj8oRwR4zwu9q4ueZGUcbcSy24K",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-charcoal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

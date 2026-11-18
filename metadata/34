@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #34 — LOCKJAW",
+  "description": "Every door in town. One key.",
+  "image": "ipfs://QmUbUP97BKJZtGZV9AiD1H9CWMbCdh39dPGLeXDFrssyco",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate-purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "iron-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal herringbone suit"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "dark red beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "monocle"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

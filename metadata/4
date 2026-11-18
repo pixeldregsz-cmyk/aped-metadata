@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #4 — RIOT",
+  "description": "Freckles and a green stare. Quieter than he looks.",
+  "image": "ipfs://QmRGhBtMb4vLM9qLsuJeVy1ZsuhAY5Bkg4jx5CuMqqMzoU",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep teal"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-tan"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "crimson-and-black moto"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards black cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

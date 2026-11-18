@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #396 — HAGGARD",
+  "description": "Haggard is the look of a man the years have been spending. Grey-brown, bloodshot red-eyed, cigar to one ember on deep plum — wiry, older, and wearing the whole ledger.",
+  "image": "ipfs://QmNsugt4TbLewADTZk1yMgJJg3T2JxRx2q4Lhug7g9eCry",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep plum"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "bloodshot red, heavy veining"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

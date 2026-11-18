@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #3 — SILVERBACK",
+  "description": "Old silver. Gold teeth. Still holding the table.",
+  "image": "ipfs://QmcHrcnQpW7UiB3gDXbVR3G8n2VPYT8fbiKQFFUTDvdnaL",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "warm amber"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "deep purple leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards black cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "across the"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "gold grill; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

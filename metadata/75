@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #75 — BLINK",
+  "description": "Sandy red with one eye shut. The other one misses nothing.",
+  "image": "ipfs://QmXoMLm8Wim3hS4adhMXxa9tT9UJpnYegBf3kBdJHWZ9Wr",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale mint"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-tan panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "rust bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "wink"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

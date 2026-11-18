@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #444 — SEAGLASS",
+  "description": "Sea glass is the bottle the ocean kept, tumbled thirty years until every edge came off it, frosted silver-green. Silver-grey, hazel-eyed, watch offered open on seafoam — older, softened by the years, and keeping the cast's closing time.",
+  "image": "ipfs://QmNjZMWCxP2RyX8NUoiuNbjaZpx5da1tWD7zLJRju3YuBL",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "seafoam"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set, reading medium-heavy as delivered"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

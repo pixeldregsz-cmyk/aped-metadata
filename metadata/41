@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #41 — ODD EYE",
+  "description": "One eye on the money. One on the door.",
+  "image": "ipfs://QmNboxLL7SEhsBVtLu4Z4PRbz7VrhnoBt8cRoEh5UU8aQv",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep olive"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "smoky grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive suede"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "mismatched — ice-blue, amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "petite"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #31 — ICE PICK",
+  "description": "Small frame, cold eyes. She reads the fine print and the room.",
+  "image": "ipfs://QmeJd434ALa4T1sJBixdTvW79siKu8E2Dfn7My9MhaTi6f",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep navy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-orange suede"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "amber eyes dead-center on the lens through the round clear spectacles"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "petite"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "earrings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

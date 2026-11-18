@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #228 — TARNISH",
+  "description": "Tarnish is what silver does with age, and she wears hers in streaks. Hazel eyes, harmonica gripped — the shine was never the point.",
+  "image": "ipfs://QmcDATS6EFHngqM9CasY5eQobrbVQ5eDrctGYfLoqceQau",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black streaked with silver"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "mustard beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

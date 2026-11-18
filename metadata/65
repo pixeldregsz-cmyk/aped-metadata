@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #65 — HIGH ROLLER",
+  "description": "The dice are already in his palm. They were never not.",
+  "image": "ipfs://QmYECKnAJoXkCEKCMVcqfZy2LjEY3qAFPk2y2jF3pdUUXB",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "mousy brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-black panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice-blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

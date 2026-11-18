@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #245 — RAVEN",
+  "description": "Ravens collect bright things, and he is offering a brass key out of his hoard. Black streaked with silver, red-eyed — whatever he is buying with it, he has priced it to the feather.",
+  "image": "ipfs://QmdQXrF8Rv8hYNmTbMxSYzV1xB8g7BkfVn9kTrYfUEDCT9",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black streaked with silver"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "navy flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "lightly bloodshot red"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

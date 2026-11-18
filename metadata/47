@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #47 — LAST WITNESS",
+  "description": "Saw it all with the eye that still works.",
+  "image": "ipfs://QmRLH6VWyyu8LvaFJEMZpiBmDmep13Uj1D26wGUkRUWMFa",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "mustard-gold"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "pale silver"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "brown tweed suit"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "worn straw hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "milky blind; steel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

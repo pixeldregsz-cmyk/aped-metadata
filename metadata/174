@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #174 — SWIG",
+  "description": "The flask stays in his fist because pouring for other people is how a man ends up empty. He drinks like it is a chore he is good at.",
+  "image": "ipfs://QmWTTw43gZDsCiFPTtAuSX1j2GdjMZr3qYZGZBnXTyXzoU",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate blue-grey"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

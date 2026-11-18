@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #230 — ANVIL",
+  "description": "An anvil does not move and does not need to. Jet-black, ice-blue eyes, the coin resting in his palm like it is waiting to be struck into shape.",
+  "image": "ipfs://QmNdud34T9axfFkzsobQbbZAzjqXdu4Bg2AQRPedRMYzfx",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "jet-black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-plum"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

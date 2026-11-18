@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #242 — PEWTER",
+  "description": "Pewter is the grey metal the old flasks were poured from. Ash-grey on slate, flask gripped — every dent he carries is provenance, and he does not shine.",
+  "image": "ipfs://QmbRqKoM54AXuMktSdLETvzf4VLYGdJkVF9vfLBB71zZc7",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #156 — KILN",
+  "description": "Jet-black, red eyes, no hat. The cigar burns and the room adjusts.",
+  "image": "ipfs://QmRfxZZCKAjN593Drks2LKSS2LrAjqrnEHXX1GLwotj4yH",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "jet-black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "red, heavy-lidded, bloodshot"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "thin scar through the brow"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

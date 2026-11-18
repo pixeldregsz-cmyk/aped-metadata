@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #223 — BUTTER",
+  "description": "Cream-blond and heavy-set, he is smooth all the way through — the dice rest in his palm like he is offering dessert. Nothing about him scrapes.",
+  "image": "ipfs://QmYSJ5Aqrx5tYewYPyXDZoix99PKrkuvSA4HNsKKCwR6P4",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "pale cream-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-mustard"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

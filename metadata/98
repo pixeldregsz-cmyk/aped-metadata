@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #98 — HONEYSUCKLE",
+  "description": "She plays sweet enough to lower the room's guard. Do not let it.",
+  "image": "ipfs://QmR7V4SLyfmmqEjhYLJWdHVeHEHGYw8XiVaVEzCj3TksFx",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty pink"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive leather over a black tank"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "straw hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

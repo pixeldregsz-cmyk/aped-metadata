@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #32 — TOMBSTONE",
+  "description": "Counts other men's time for a living.",
+  "image": "ipfs://QmbnzdbqmqFfkBNJfxoYxwncmEAg3M1ftHAutp2V1hixAf",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "rust-red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "deep-green velvet"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "dark brown fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "tattoo"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

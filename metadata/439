@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #439 — KODIAK",
+  "description": "A kodiak is the great brown bear of the northern islands, the largest of his kind, fishing alone because the river makes room. Grey-brown, hazel-eyed, flask gripped on ochre — massive, middle-aged, and self-sufficient to the horizon.",
+  "image": "ipfs://QmSu4uxkQ9WxPUjBL9CgUyV73ykf17bnnfqkTCtEVdJetE",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "tan knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

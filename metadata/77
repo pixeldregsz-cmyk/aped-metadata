@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #77 — LONG PULL",
+  "description": "Dark brown and steady. The flask comes out slow.",
+  "image": "ipfs://QmU8d5FtM6JpBYcdnaZPs2jgzWPgCtK6yqKgqk29ePBikt",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep coral"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "white t-shirt under a olive suede"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "red headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

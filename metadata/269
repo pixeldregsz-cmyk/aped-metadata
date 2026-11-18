@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #269 — BOULDER",
+  "description": "A boulder is the rock the field could not swallow; farmers plough around it for generations. Massive, black, amber-eyed, flask gripped like it weighs nothing — he is not the obstacle; the route goes around.",
+  "image": "ipfs://QmcrQukkVNrKyEnMU4pqCHGMWepu9nX8pPbBEXo5yAArrg",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "tan bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

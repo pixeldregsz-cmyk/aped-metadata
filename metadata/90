@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #90 — B-SIDE",
+  "description": "She backs the track nobody else at the table would play.",
+  "image": "ipfs://Qmcitcw2Ww8FWh3PG3ohAz24Xwc72xBWoNbtQKLTBBckXd",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "wine red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "rust"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream leather over a black henley"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

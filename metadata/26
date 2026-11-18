@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #26 — NIGHTSHADE",
+  "description": "Auburn under a black cap. One ring, no wasted words.",
+  "image": "ipfs://QmNgABWh6bvMSDJfhWKTkrsjoeFRRQsnNAGLiuMXfn8Vau",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "midnight blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "rich auburn"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-purple leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards black cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

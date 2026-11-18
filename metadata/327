@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #327 — CONKER",
+  "description": "A conker is the chestnut seed drilled and strung for the schoolyard game. Chestnut, amber-eyed, cigar gripped on cream, stitches on his cheek — lean, middle-aged, and still on the string.",
+  "image": "ipfs://QmR6haKGWrrdfZq6psMHjHba8VRtqqUoij6WVhgS5Qmnh4",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

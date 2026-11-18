@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #118 — FOXFIRE",
+  "description": "Copper-red against charcoal. She travels light and arrives lit.",
+  "image": "ipfs://QmQXEGkBve7PqL5crJECjD7tqDVLKUzrjzWvkGwHFCwzSD",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "charcoal"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "copper-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "white leather over a black tank"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

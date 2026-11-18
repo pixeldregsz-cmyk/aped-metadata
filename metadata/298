@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #298 — DENIM",
+  "description": "Denim is the dusty blue working cloth that outlasts the job. Black fur, amber eyes, harmonica gripped, gold at her ears — lean, middle-aged, and broken in, never broken.",
+  "image": "ipfs://QmRTu5tAY59iNLJt1YP2YSrarwxzVbw11R6moeHmiy8wbZ",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings; two small gold ear hoops"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

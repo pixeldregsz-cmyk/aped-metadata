@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #202 — CHARM",
+  "description": "Nobody can explain the little gold charm at his chin, and he has stopped trying to. Luck, in his experience, is just the thing that stays on you.",
+  "image": "ipfs://QmNRxexV8jowmf19rThrx43Vc2fRHB6HrUUKpGs7PVADR8",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "deep brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; tiny gold charm at the chin"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

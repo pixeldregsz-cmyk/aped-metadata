@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #15 — PAYBACK",
+  "description": "A toothpick and a long memory. He counts everything twice.",
+  "image": "ipfs://QmcNSYZo62irp2m7u9YZrysUNAyhLsWnCE6J4QNz5TZZHx",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "navy"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "pale grey-tan"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive military"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "brown tweed flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "toothpick"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "nose ring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #140 — BLUE NOTE",
+  "description": "He plays the sad ones like they are jokes and the jokes like they are sad.",
+  "image": "ipfs://Qma8WCbp66aRPqbiYcLzFHgmfaASbCQdZgojwhqAbm6hTc",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ginger-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream canvas"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

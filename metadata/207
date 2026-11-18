@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #207 — WORMWOOD",
+  "description": "Wormwood is the bitter part of the bottle, and he has made his peace with being that. Nothing sweet has ever survived him.",
+  "image": "ipfs://QmeQUJ2s17iykKBgssZt5KzKuwcvX8wenxUFMNbFmmfuLN",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "navy beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

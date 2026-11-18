@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #232 — FLAX",
+  "description": "Flax is the pale fibre that spins into line that does not snap. Ash-blond, brown eyes, cigarette to one ember — wiry, and stronger than the weight suggests.",
+  "image": "ipfs://QmW4eqsk43VZbrnmNbxBjNsAEj4KuLENdJj9AR2nwxfxdb",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale gold"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "rust headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #234 — CINNABAR",
+  "description": "Cinnabar is the red the old painters ground from stone. Copper-red, amber eyes, dice gripped — she is pigment, not paint; the colour goes all the way through.",
+  "image": "ipfs://QmZV9sEPooc6EaK9UpoAXrRPU2YryN4SThpoMuPJ5EJ7wy",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "copper-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #357 — FENNEC",
+  "description": "The fennec is the small sand fox with ears like sails. Sandy-brown, hazel-eyed, ace pinched on cream — lean, younger, and all ears.",
+  "image": "ipfs://QmWud3BoxK75WrKbZdSMbin1vyaZzYXPJLXnohYYajn8Gi",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

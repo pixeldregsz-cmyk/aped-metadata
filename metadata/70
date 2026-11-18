@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #70 — ANTE",
+  "description": "Honey blonde and old enough to know. The ace is already out.",
+  "image": "ipfs://Qmb9JXagHN8KCHoFHdBHKMK4YmbL9YDpNgiBjWk57wX4jY",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "honey blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "ivory panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "white bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "petite"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

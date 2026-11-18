@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #35 — WAR DRUM",
+  "description": "You hear him before you see him.",
+  "image": "ipfs://QmZEzkB4NWzpWFhu4yfV7zuLd4cW7ToiYJR3xo1MdAWQVf",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "warm taupe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "deep brown-black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-cream racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

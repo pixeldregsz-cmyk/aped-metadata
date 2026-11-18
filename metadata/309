@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #309 — MASSIF",
+  "description": "A massif is the mountain that stayed together when the range broke. Ash-grey, amber-eyed, harmonica gripped against the slate — massive, middle-aged, and keeping its own weather.",
+  "image": "ipfs://QmTcZjNKG2BVtzSeJJ3ettE7DFJvmTv5hRnE7SWuBym6gy",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

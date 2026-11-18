@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #197 — MALT",
+  "description": "The flask comes out of the jacket like it pays rent there. He drinks the way a malt ages — slow, and on purpose.",
+  "image": "ipfs://QmbRyBzYxXCQHKZ83Mu8gAV7VjcjVEuSu5S8i3PeCZp4ri",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #52 — THROTTLE",
+  "description": "Young, fast, and already unimpressed.",
+  "image": "ipfs://QmdeL44LRYdjLz8JYLo72AHRanBBr7pShBYsK6tR5bDy9c",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "forest green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "copper-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "grey-and-orange racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "white headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel-grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

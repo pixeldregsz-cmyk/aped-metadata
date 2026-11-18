@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #43 — BLACKOUT",
+  "description": "Lights out when she walks in.",
+  "image": "ipfs://QmZbnAf4kiULpkdgKY7X5XMJWxaifvGFP8x2j3onnxN59h",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "midnight blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "glossy black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "crimson leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "with her"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "square black sunglasses"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "earrings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

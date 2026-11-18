@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #123 — OPEN RANGE",
+  "description": "He talks like distances are a personality trait.",
+  "image": "ipfs://QmYtr6ntv9X3ccXFQMPLvKWsv69uvjwFJroKBqNECJikhY",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark honey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "red-and-white"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black cowboy hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #263 — TUMBLEWEED",
+  "description": "A tumbleweed is the lightest thing on the plain and the only one that travels the whole of it. Golden-brown, dice gripped ready to roll — the wind files his paperwork.",
+  "image": "ipfs://QmfZ4xTKdj1NPnx5faFV57mgpA6mSuJSub2zuh3NAC1qr3",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "dark green flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

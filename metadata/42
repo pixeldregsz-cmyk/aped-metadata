@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #42 — SLOW BURN",
+  "description": "Never hurried. Never late with the bill.",
+  "image": "ipfs://QmQZy3HXFA6aUGpr7JLnYRB9NRTDJKZLL56Zmmo4S3P3jL",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "petrol blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "russet-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy corduroy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "brown corduroy newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "calm amber, heavy-lidded"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "blunt"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

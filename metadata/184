@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #184 — SAGE",
+  "description": "Advice like she smokes — one ember, no wasted motion, only when asked. When she finally says something, the table writes it down.",
+  "image": "ipfs://QmUWQuxWgoL86Qe5nH6JDvJVV2AKNXKuZsyY3npajvPbYu",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "sage green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-plum"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

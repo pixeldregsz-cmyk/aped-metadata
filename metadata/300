@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #300 — VESPER",
+  "description": "Vesper is the evening star and the hour it keeps. Chestnut, ice-blue eyes, the watch offered lid-open under indigo — he does not chase the day; he closes it.",
+  "image": "ipfs://QmfQK4sxEry7wvwKAVudMR9R6Ag17YZXNb3Hn2YocZcZek",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "navy flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

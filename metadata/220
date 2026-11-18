@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #220 — RUST",
+  "description": "Rust is what iron turns after years out in the weather, still working. He wears the marks as the finish, not the damage — and he keeps his own time.",
+  "image": "ipfs://QmSP1TSZ1pVMeb29QyR4ST45HP4vaX6EckGeiE5hLVNKhR",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "rust backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

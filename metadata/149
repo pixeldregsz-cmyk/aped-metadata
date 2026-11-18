@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #149 — COLD SPOT",
+  "description": "Her cigarette smoke does not rise. It joins her.",
+  "image": "ipfs://QmeeLXN4iNSgukmNNYgRwYEgx8mPM7WD3ByffVj5tUFdu8",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "near-black indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "pale ash-white, dissolving into cold mist at the edges"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hollow dark, faint glow"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "special — fur and form dissolve into mist at the edges"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

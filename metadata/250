@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #250 — SUMAC",
+  "description": "Sumac is the red that shows up uninvited and turns the whole fence line its colour. Red-brown, amber-eyed, the ace pinched by its corner — nobody planted him where he stands.",
+  "image": "ipfs://QmP6bGn9qZH69777ybiNydg5PMmVSYiccRDdWf5Z5o4wNV",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "red-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #267 — BURLAP",
+  "description": "Burlap is the coarse tawny cloth sewn into sacks with big cross-stitches, made to be dragged. Tawny-brown, hazel-eyed, cheek stitches riding, the ace pinched like a receipt — nothing about him is polished; that is why nothing tears.",
+  "image": "ipfs://QmeP1oPPknspKwtZ1KhWX6QkwZrgJZKggxzukf9795Fjf1",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

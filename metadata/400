@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #400 — ROSE",
+  "description": "A rose arms itself — thorns on the stem, scent in the air. Tawny-gold, steel-grey-eyed, the watch offered open on dusty rose — wiry, middle-aged, and still on the stem.",
+  "image": "ipfs://QmXVb7aN6aLSpGyeSbxhzDo7kCpnGgz2crtPZS5GNi8jah",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny-gold"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "rust flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

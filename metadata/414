@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #414 — MERCURY",
+  "description": "Mercury is the silver that will not sit still, quicksilver running bright and gathering itself whole again. Silver-grey, steel-eyed, watch offered open on indigo — lean, older, and never settled.",
+  "image": "ipfs://QmVw1u3ZWQu2MWjQjTi2tuXNK4gWyxcTEGyWfjQKMDFqua",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-ochre"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey, reading grey-brown in the warm light as delivered"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

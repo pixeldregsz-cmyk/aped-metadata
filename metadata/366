@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #366 — TURMERIC",
+  "description": "Turmeric is the root that stains everything it touches gold. Golden-brown, amber-eyed, thick cigar gripped on terracotta — wiry, older, and stained through.",
+  "image": "ipfs://QmWKhJgsCAyUKwUSvPancrT74G7UN4qKTBKJER9y1V9y3n",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

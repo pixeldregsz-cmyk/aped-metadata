@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #325 — HEMATITE",
+  "description": "Hematite is the black stone that bleeds red. Jet-black, amber-eyed, the key offered against the brick red — athletic, young, and already assayed.",
+  "image": "ipfs://QmZTteC8rA8z9piADU18eAvuX5fcpnzK8myuSMeWohZifA",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "jet-black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

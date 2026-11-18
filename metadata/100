@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #100 — CENTURY",
+  "description": "Grey at the temples. He does not chase the game anymore. It checks in with him.",
+  "image": "ipfs://Qmdh4KHzGfDu56qg5T4hgFNqFMd4sCRgnXv5ogTNGxyYBv",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "teal"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black, grey at the temples"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "tan-and-black panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "brown fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #324 — HAZEL",
+  "description": "Hazel is the colour that will not sit in one name. Tawny-gold, hazel-eyed, the record offered by its edge against the indigo — heavy-set, middle-aged, and decided by the light.",
+  "image": "ipfs://QmUtqoCKQYro2pEHbco6WzEeWq88hUpXLDPuR68WQYwAN3",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny-gold"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "mustard knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

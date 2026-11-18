@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #315 — EBONY",
+  "description": "Ebony is the black wood so dense it sinks. Jet-black, red-veined eyes, the key offered against the sage — heavy-set, young, and black to the heartwood.",
+  "image": "ipfs://QmajeQnAcJFEi3rqEeMRuoZnkYrBqkjotDcDno7AHLTndD",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "sage"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "jet-black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-mustard"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "bloodshot red, heavy veining carrying onto the cheeks"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

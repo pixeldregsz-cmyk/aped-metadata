@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #146 — PATCHWORK",
+  "description": "Sewn back together more than once, with opinions about the workmanship.",
+  "image": "ipfs://QmYe6GkEcbR2DTWnadd7Z26c9x1AR5j3gYPNJp1cLHsvyC",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "graveyard grey"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "patchy grey-brown over dead grey-green skin"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "tattered charcoal ( , frayed as authored)"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "battered black flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "one milky dead eye; one dull amber eye"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "special — heavy stitches across cheek and brow"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

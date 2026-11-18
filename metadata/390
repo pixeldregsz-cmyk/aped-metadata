@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #390 — LAVENDER",
+  "description": "Lavender is the grey-purple flower that keeps stored years smelling tended. Chestnut, steel-grey-eyed, watch gripped chained on lavender — wiry, older, and stored, not spent.",
+  "image": "ipfs://QmZZMaVH6pAaV95q9Jbd1cKwN55PAgU63gdn76u3PXo2oT",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "lavender, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "cream flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

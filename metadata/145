@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #145 — HIP POCKET",
+  "description": "The flask is part of the luggage, not the cargo.",
+  "image": "ipfs://Qme869hpzrKBkL7L7fcsGXq8yUoo1wQy5CpEMzQX3wL2zK",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "mousy blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "white henley under tan suede"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

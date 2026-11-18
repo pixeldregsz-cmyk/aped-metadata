@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #344 — REFRAIN",
+  "description": "The refrain is the part of the song that comes back. Silver-grey, hazel-eyed, the record offered on pale mint, a gold hoop at her ear — wiry, older, and outlasting every verse.",
+  "image": "ipfs://QmZC5ycDZRuKDN4Qk4zYZur3YgRsuNzZFMUzgb1qqVhfga",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale mint, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-mustard"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

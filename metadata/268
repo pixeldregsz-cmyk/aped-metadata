@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #268 — MULBERRY",
+  "description": "Mulberry is the dark fruit that stains everything it touches. Deep brown, ice-blue eyes, harmonica gripped — the sweetest things leave a mark, and the stains are how people remember her.",
+  "image": "ipfs://QmeXKdMcJrwDGVTeWh8PuoeT97MkMT8ntMEqvQvd9gJToL",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "deep brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-gold"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

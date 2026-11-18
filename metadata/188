@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #188 — BRINE",
+  "description": "She has the salt on her — bandana tied down, flask in hand, shore leave earned. The flask is offered to one person at a time, and she picks.",
+  "image": "ipfs://QmYno8M3s3mbhwEM85ffmnXshkaqN1uvLJ6amzJ9tN7udC",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "seafoam"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "auburn-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

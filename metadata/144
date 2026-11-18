@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #144 — APERTURE",
+  "description": "One eye a lens, one green and bare. The half that never blinks is the half you notice.",
+  "image": "ipfs://QmafiV4JHFJRsyK9XVRmc94xwTcyYwMagPTVAZGP6g8kkf",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "graphite"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "mechanical lens (frame-left); green, bare (frame-right)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "special — lens eye (note: the lens landed on the frame-left eye, the reverse of the brief; the piece holds as delivered)"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

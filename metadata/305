@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #305 — TAMARIND",
+  "description": "Tamarind is the mahogany pod — dark outside, sharp-sweet inside. Mahogany, amber-eyed, the key offered under a boater — heavy-set, middle-aged, and not for eating straight.",
+  "image": "ipfs://QmTnPBKpAab5zJXo3NE8PXEHxb1wEpFahssyKUvfZRe8Da",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "mahogany"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "straw boater hat with a black band"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

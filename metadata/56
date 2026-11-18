@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #56 — DEEP CUT",
+  "description": "Knows every track. Plays none of them for free.",
+  "image": "ipfs://QmQnLqRPnFPS2ti8o3tQX1qQUcTmuCYwPmd4d57AtwDcD4",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "burnt sienna"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "smoky brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "deep purple panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "with hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "cat-eye glasses"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

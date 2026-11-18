@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #182 — DOUBLOON",
+  "description": "Bandana at her neck like she just came off a boat, and a toad-stamped coin offered flat and final. She will not ask where it went.",
+  "image": "ipfs://QmZyTi8bRdzoZFWDFLmo77etvth1Hvj5Dbs6PH9BfVeKAW",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "coral pink"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal bandana, worn at the neck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

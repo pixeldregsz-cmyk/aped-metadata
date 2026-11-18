@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #249 — TUNDRA",
+  "description": "The tundra is the pale country where everything alive has agreed to the terms. Massive, ash-blond, steel-grey eyes, the watch offered open — cross him and you are a long way from shelter.",
+  "image": "ipfs://QmZowKordBwanJDUTGsntd6oEfqpX4JxZgmobcbRV4y7rq",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

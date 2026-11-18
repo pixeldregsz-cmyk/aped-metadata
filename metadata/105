@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #105 — HIGH CARD",
+  "description": "She holds the ace offhand, like something she was never worried about playing.",
+  "image": "ipfs://QmTc6NZwn443pzsTJJxX3KZxvoLUTwwsgJy6ssxinsVbPp",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "sand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "honey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "blue-and-white over a grey tank"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "red backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

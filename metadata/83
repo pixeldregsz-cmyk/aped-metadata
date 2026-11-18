@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #83 — LACQUER",
+  "description": "Mahogany and red leather. The cigarette is an accessory; the stare is the instrument.",
+  "image": "ipfs://QmTbZHVKA7XYLEV4q543zASc9rGWefrkPEGREZLhHVDNSy",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "emerald green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "mahogany"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "red leather over a grey t-shirt"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #438 — VALKYRIE",
+  "description": "A valkyrie is the chooser of the slain, the warrior woman who decides which of the fallen were worth carrying. Dark brown, hazel-eyed, coin offered on dusty blue — athletic, older, and carrying verdicts, not payment.",
+  "image": "ipfs://Qmb7EhwGCnzsg91xHEvuVpYpdVAUafzKdXUpFar3huimVt",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black braided headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

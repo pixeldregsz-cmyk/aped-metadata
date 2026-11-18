@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #226 — TERRA",
+  "description": "Terra is clay that went through the fire and came out harder. Tawny-gold on terracotta, cigarette pinched to one ember — fired once, set for good.",
+  "image": "ipfs://Qmetz99EocNgVmq8Q3eR66ikCtoRPnQbaiqrV9WUdWVu9y",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny-gold"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

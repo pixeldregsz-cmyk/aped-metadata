@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #213 — FELT",
+  "description": "Felt is a quiet material that holds whatever shape it is given, and so is he. Doors are just the part of the wall that agreed.",
+  "image": "ipfs://QmfYhLCRG4KPR2JAVdpRdBYHKvxe4e9d2ASaQRjMkUfzoC",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive wool"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "brown fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

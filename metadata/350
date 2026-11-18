@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #350 — RIME",
+  "description": "Rime is the white frost that feathers on cold glass. Light tan, ice-blue eyes, ace pinched on indigo — wiry, younger, and frost-edged.",
+  "image": "ipfs://QmRKY4dfBFGnCs39Js5dxqsWi8wLQNBKvDJj3tu1HiC96K",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "light tan"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "red backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #94 — GRANDFATHER",
+  "description": "The watch rests in his open palm. The schedule bends around him.",
+  "image": "ipfs://QmPs36XPuL9L3FJ2K8HHHVZXKoq8X6jGkZH462YGqB3qnU",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate blue-grey"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "taupe"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "white-and-olive panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown, heavy-lidded"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #1 — HARRY",
+  "description": "Red eyes. Gold jacket. First at the table.",
+  "image": "ipfs://QmbNyaLw3uxgiD4ZGruFaV32BHe1C3JeeNw8YryypX9dQ2",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep violet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-gold racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards black cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "huge bloodshot, bloodshot"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "red aviators"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

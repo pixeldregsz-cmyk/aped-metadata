@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #96 — GOLD LEAF",
+  "description": "Dark chocolate against a gold field. He smokes the good cigar like an annuity.",
+  "image": "ipfs://Qmc5B2q9d6bwsJLn3aVAyiB1Y6nWdDmG1Vt8ztKwwQvudb",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "gold"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark chocolate"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "forest-green-and-cream panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber, lightly bloodshot"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #116 — REDWOOD",
+  "description": "A tree that learned to dress itself. The size of him is the statement.",
+  "image": "ipfs://QmXx8MGbUaHseFyKuUHzBRgQTnHE2xFbnXQBJpw6gbDUku",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep teal"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "russet"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream canvas"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

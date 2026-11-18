@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #410 — HICKORY",
+  "description": "Hickory is the axe-handle wood, the hardest in the eastern forest, tougher after every blow it survives. Chestnut, ice-blue-eyed, watch gripped on indigo — wiry, older, and refusing to split.",
+  "image": "ipfs://QmcgepqUDe1xsrmMRxQuJEUQ8UKcwmbKXmtewXmWkJf3M3",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "red bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #345 — COMMODORE",
+  "description": "A commodore commands the squadron without being an admiral. Mahogany, amber-eyed, the brass key offered on brick red — heavy-set, younger, and holding the harbour.",
+  "image": "ipfs://QmNoNDCoLGiy5AzK7adFeEh8niNsHwonBeCR3jRbwBtivD",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "mahogany"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-gold"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

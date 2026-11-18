@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #71 — SPLIT",
+  "description": "One amber eye, one ice blue. Both of them on you.",
+  "image": "ipfs://QmaPmsaa5Ljc6zNFhfYSjuzNeyPtKLCs2p7n8nLx2po1EA",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "midnight blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "charcoal grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive-and-tan panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "mismatched"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

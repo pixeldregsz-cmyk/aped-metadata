@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #227 — DUNE",
+  "description": "A dune is sand that learned to hold a shape without holding still. Sandy-brown, green-eyed, the ace pinched light — he is already somewhere else.",
+  "image": "ipfs://QmNpS32nxvtLvLmqMNHFhR5A1RJ2MJd6ZutVrBp3AqfUtv",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-ochre"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #27 — WARHORSE",
+  "description": "Silver at the temples, rust on his back. Still first out of the chair.",
+  "image": "ipfs://QmapCHuebqthpDguu4grhdnhGHDQpURfi1SHTLfdKyZEuC",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "charcoal-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-orange racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel-grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

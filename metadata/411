@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #411 — SIREN",
+  "description": "A siren is the voice from the water, the song over the sea that sailors steered toward anyway. Golden-blonde, hazel-eyed, record offered on seafoam — wiry, middle-aged, and playing whether you lean in or not.",
+  "image": "ipfs://QmY1SSLG3VqZowR98X353nXoEZikAJxQZAbLhsb7UjUhri",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "seafoam"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

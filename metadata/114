@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #114 — BAD PENNY",
+  "description": "He keeps turning up. That is the whole reputation.",
+  "image": "ipfs://Qma1fLJ3ypiafJnC5GDZnNJnxrUuHLaT3cbEtUFh4jTgHg",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark walnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "tan canvas"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber, black eye at frame-left"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

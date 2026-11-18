@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #363 — GAZETTE",
+  "description": "The gazette is the paper the newsboy cries on the corner. Chestnut, brown-eyed, the gold coin offered on melon — lean, middle-aged, and selling the day's news.",
+  "image": "ipfs://QmZLRnUjK7WdNNKgpzWmEiwKYsCd7yNrtN9N3yhpmn1jdc",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "red newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

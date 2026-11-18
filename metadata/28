@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #28 — BOOTLEGGER",
+  "description": "He is not handing it over. He is showing you it exists.",
+  "image": "ipfs://QmNPrAufvEK86s9qgvmY4Vyoz6UoVRaB6f5NfocCUxfFTV",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "warm sand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "midnight blue-black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "oxblood-red leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

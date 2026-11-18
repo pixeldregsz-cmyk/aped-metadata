@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #389 — PORTER",
+  "description": "A porter carries the loads and drinks the dark ale brewed for the carrying. Ash-grey, brown-eyed, flask gripped on indigo — massive, younger, and built for freight.",
+  "image": "ipfs://Qmf2iBSVyCHhwgLW6aQJegjbSVtVVK1Tqe76geCbhqLspi",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "tan newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #200 — WAGER",
+  "description": "The dice are not a game to him, they are a contract he keeps re-signing. He does not bet on outcomes — he bets on himself showing up.",
+  "image": "ipfs://QmSNDw6wyVrH8VNT57ogdqhUNpQrituoMJhykx5mQWCGhy",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grizzled grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-plum"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

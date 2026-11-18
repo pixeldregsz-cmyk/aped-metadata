@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #353 — LILAC",
+  "description": "Lilac is the purple bloom that comes early and does not stay. Ash-grey, hazel-eyed, the watch offered open on melon — lean, younger, and timed to the season.",
+  "image": "ipfs://QmcWpuoJVpw63koFJP1rNuTbMbjhLLMX366e24gyfVrXt3",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

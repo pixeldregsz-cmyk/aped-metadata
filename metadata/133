@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #133 — SHUTEYE",
+  "description": "The wink is just how he checks whether you are paying attention.",
+  "image": "ipfs://QmSmuoE4szM2MgGgRPDu3ait2zLLv12daNj2evXvLDSLJv",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "red-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black canvas"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "rust-orange beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "wink — frame-right eye shut, green eye open on the lens"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "wink"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

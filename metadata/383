@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #383 — STRAW",
+  "description": "Straw is the gold they cut for hats and bedding alike. Ash-grey, amber-eyed, harmonica gripped on melon — athletic, older, and summer-weight.",
+  "image": "ipfs://QmYTkS1CZB7poWKFgSTP4E3JHDD8htpDY6w1oep1bFUKLj",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black straw boater hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

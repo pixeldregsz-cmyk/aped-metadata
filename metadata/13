@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #13 — JUGGERNAUT",
+  "description": "Charcoal and silver, built like a door. Nobody moves him.",
+  "image": "ipfs://Qmc6hwpuqbmapcSPn1u7tBGyknEnWAfAY9VuqKNhQVfXzG",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "mustard-gold"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "charcoal-black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black denim"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "smoke-grey aviators"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

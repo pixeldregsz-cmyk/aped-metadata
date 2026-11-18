@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #2 — VENOM",
+  "description": "Amber lenses and a long holder. She has heard it all before.",
+  "image": "ipfs://QmSK1UdYRUb7oWVEVH9qArt22UytvkCK2kQpjQx4sQFtFx",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "emerald racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "amber aviators"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "earrings; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #165 — TIN SANDWICH",
+  "description": "One amber eye, one green, held together with stitches and nerve. He plays the harmonica like it might be confiscated.",
+  "image": "ipfs://QmR4PHGWUD92G75E8NTv5dUiE35GdVWYeGPn8exoJw1Uft",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "mismatched — amber (frame-left), green (frame-right)"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

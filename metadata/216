@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #216 — HARVEST",
+  "description": "A straw hat means the work started before the heat did. He grips the ace like a tool, not a trophy — harvest is what showing up every day looks like.",
+  "image": "ipfs://QmSgT4tyUg6faw95whHeZP86MpAv2enYHNt7Hahs6bWDrk",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "red-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "straw hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

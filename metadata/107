@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #107 — CATNAP",
+  "description": "He looks half asleep because resting is a skill he trains.",
+  "image": "ipfs://QmQJJXdn5CBLgLWFjytDrnuzi8NMUabkhvC3jhDezCfkJy",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cobalt blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-cream panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "orange backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green, heavy-lidded"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

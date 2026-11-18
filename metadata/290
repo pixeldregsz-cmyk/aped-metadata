@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #290 — THISTLE",
+  "description": "A thistle is all spine and grey down, and it keeps its ground. Ash-grey, ice-blue eyes, the watch chained across his fingers — wiry, older, and not worth the argument.",
+  "image": "ipfs://QmeEU8U3AxiS14h43DMwTrfwJFPxmqUFRzhBGqB6YN3z4j",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "tan flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

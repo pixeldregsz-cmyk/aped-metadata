@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #187 — SQUALL",
+  "description": "He brings his own weather, storm-grey and still athletic under the flat cap. When he finally moves, it is all at once.",
+  "image": "ipfs://QmStmuQQDFdCtp1AG3eQiwJ6jwWq5rezd5pw2ubwKV5fy8",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark storm-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

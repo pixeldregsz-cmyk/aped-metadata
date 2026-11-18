@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #89 — BALLAST",
+  "description": "The weight that keeps the whole enterprise level. He has done the arithmetic on everyone.",
+  "image": "ipfs://QmaKwdFrdNFuGCAwZ83h1sY3D3XXLsYSLKUsTCoZeMEALo",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale teal"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "iron black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey tweed flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey, heavy-lidded"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

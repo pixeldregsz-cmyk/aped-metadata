@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #326 — STOGIE",
+  "description": "A stogie is the working cigar, rough-wrapped and never dressed up. Light tan, eyes veined red, thick cigar gripped on terracotta — wiry, older, and burning true.",
+  "image": "ipfs://QmbNFsf3w7Aq4zAN27Ae3PSRfvvq9Su3D1MDBhpthpvqru",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "light tan"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "bloodshot red, heavy veining"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

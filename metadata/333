@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #333 — ALDERMAN",
+  "description": "An alderman is the council's senior man, whose vote settles it. Tawny, green-eyed, ace pinched on melon under an olive fedora — heavy-set, middle-aged, and already decided.",
+  "image": "ipfs://QmUpDkbE9unyGx3KeBHEMomnh7ez8GkY3oBeiP4NP6BJQv",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

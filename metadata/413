@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #413 — CHARCOAL",
+  "description": "Charcoal is wood that has already burned, the black the fire leaves behind, and it draws the sharpest lines there are. Jet-black, amber-eyed, coin offered on melon — lean, middle-aged, and finished by the flame.",
+  "image": "ipfs://Qmdu6erQSUushYuyMod622fgheh7ESqXH6LQtppyX7DNfH",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "jet-black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black straw boater hat with a black band"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

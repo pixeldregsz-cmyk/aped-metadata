@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #246 — ADOBE",
+  "description": "Adobe is earth shaped and set in the sun, and whole towns still stand on it. Sandy grey on terracotta, the record offered by its edge — he has already decided, and the sun did the rest.",
+  "image": "ipfs://Qma975FvsTHz9qJQn5aLpyFdm3aeekRDmTgu1HgWR4B4Eu",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-gold"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "rust backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

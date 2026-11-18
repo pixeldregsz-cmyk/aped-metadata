@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #30 — JACKPOT",
+  "description": "A gold coin with a toad on it, offered open-palmed. His whole pitch in one gesture.",
+  "image": "ipfs://QmPbXcJXyyMehXoebj63i1YJvEfKJwpH6iqa8iHk3WjnaG",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "warm mustard"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "pale ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-red racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

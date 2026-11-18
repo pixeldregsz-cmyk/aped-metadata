@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #316 — LATERITE",
+  "description": "Laterite is the red earth bricks are cut from. Grey-brown, amber-eyed, the record offered by its edge on brick red — wiry, older, and hardening in the sun.",
+  "image": "ipfs://QmfM4FG2fG72dWnKSR2TiaEZvEUCrnGZJLm3WZxvFrRCrc",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black straw boater hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

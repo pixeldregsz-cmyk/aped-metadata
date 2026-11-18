@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #23 — FUSE",
+  "description": "An unlit match and all the time in the world.",
+  "image": "ipfs://QmTCnqiVAtKaVtfAU6x8CMFEKSDXx56eaeK5VhCNSCi85Z",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "sage"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "deep purple racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards orange cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "matchstick"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

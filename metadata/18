@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #18 — BLOODHOUND",
+  "description": "Gold rims and a waxed canvas jacket. Reads the room first.",
+  "image": "ipfs://QmVPpfDmWL7S5QHnVmeBxPW7FWZJTocyVjpanf16r9MwM7",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "berry-magenta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "rust-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "deep teal-green waxed canvas"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "round gold-rimmed glasses"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

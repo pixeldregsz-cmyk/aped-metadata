@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #436 — HANGOVER",
+  "description": "A hangover is the morning's invoice, itemised in the eyes and payable before the day will do business. Sandy grey, bloodshot-eyed, thick cigar gripped on terracotta — wiry, older, and reading it as a receipt.",
+  "image": "ipfs://QmcsDsemLeJD8egUmbsN1en86JwYZMVLKuuUvc4bxrTvsc",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "bloodshot red, heavy veining"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

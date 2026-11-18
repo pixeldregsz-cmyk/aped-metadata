@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #442 — COGNAC",
+  "description": "Cognac is the brandy that waited, left in oak until time itself becomes the flavour. Auburn-red, amber-eyed, record offered on terracotta — lean, middle-aged, and poured small.",
+  "image": "ipfs://QmU496zowWLv151TaqQebFF3hBovknaYukuVtKT93emYWq",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "auburn-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

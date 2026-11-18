@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #349 — BASTION",
+  "description": "A bastion is the strongpoint that holds when the wall is tested. Grey-brown, amber-eyed, flask gripped on slate — massive, middle-aged, and holding the line.",
+  "image": "ipfs://QmVC5rETojDi3QXdpaitzQZHFoYRZMMoizuddgYQ9HrzMZ",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "navy bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

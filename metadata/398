@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #398 — TRESS",
+  "description": "A tress is a braid worked tight and kept, undone only when its owner decides. Dark brown, hazel-eyed, coin offered on indigo — athletic, older, and every strand accounted for.",
+  "image": "ipfs://QmPhz6zaRBU4xKEbgLuFTGiUSHSfqvqAC2N8d6tBR9ERK6",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black braided headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

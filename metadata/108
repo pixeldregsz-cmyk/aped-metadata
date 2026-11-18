@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #108 — TONIC",
+  "description": "She prescribes the flask more than she drinks it.",
+  "image": "ipfs://QmVAwAoEKDGg5Rq1uhw9EmeNaA2b5mRug3YyZVv7HB3yVN",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "mint green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-streaked brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard leather over a black henley"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "purple headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

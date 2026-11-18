@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #340 — CHICORY",
+  "description": "Chicory is the root they roast when the coffee runs out. Dark brown, steel-grey eyes, the watch gripped chained on dusty rose — wiry, older, and making do.",
+  "image": "ipfs://Qmd8XgtqVvchQLjbE4AwdAKcNPprQ6vZeC59jp5tF3dxaV",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

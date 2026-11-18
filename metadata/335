@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #335 — CARETAKER",
+  "description": "The caretaker is the one who holds the keys and knows which door sticks. Red-brown, hazel-eyed, the brass key offered on sage — lean, older, and showing you he has it.",
+  "image": "ipfs://QmX8Fti79yfZgLWWCQN5BG7w9qePxfTXaGVsgHxPttVB67",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "sage"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "red-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip ring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

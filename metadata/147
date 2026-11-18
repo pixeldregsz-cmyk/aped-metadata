@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #147 — ALL EARS",
+  "description": "Three eyes, one ear too big. She hears what you said and what you meant.",
+  "image": "ipfs://QmcxKE9eH21vLrKnpK8e5f97kCNwZmugGR5uLzTY6xdx7J",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "sage green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "mottled rust-and-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "grey tank under olive-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "three amber eyes, all on the viewer — third eye centered in the forehead"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "special — oversized frame-left ear (note: a briefed sixth finger does not read in the grip)"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

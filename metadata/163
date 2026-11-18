@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #163 — GATEFOLD",
+  "description": "He offers the record opened out. Nothing about him is a single.",
+  "image": "ipfs://QmQVbTsc7e93uBMR2C6c7HZ3rpB7CgSM8UzNWVQxjWj9Qn",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "olive newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

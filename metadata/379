@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #379 — STEEL",
+  "description": "Steel is iron that learned to hold an edge. Grey-brown, hazel-eyed, flask gripped on slate — massive, middle-aged, and forged, not poured.",
+  "image": "ipfs://QmRmvzaxyuvaUXuHT4uhpPsSi97dhYp29pzKUdkhS42CJ8",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "tan knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

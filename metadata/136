@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #136 — UNDERSTORY",
+  "description": "She keeps to the shaded side of every room and hears everything from there.",
+  "image": "ipfs://QmS5SwN1dSPLQDdRDYF54FLRiGgSPHGmw9bsHnN5mWEoT9",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "forest green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark auburn"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black henley under cream leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

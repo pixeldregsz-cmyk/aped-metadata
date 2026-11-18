@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #237 — SORREL",
+  "description": "Sorrel is the chestnut coat where the red runs all the way through. Hazel eyes, flat cap, thick cigar — age has only stopped him wasting the build.",
+  "image": "ipfs://QmcTBLHv1h6dFbTkVEAcZpjK99uu8Fn6gWw96yzEjA4c6f",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

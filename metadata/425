@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #425 — FEDORA",
+  "description": "A fedora is the hat that finishes the silhouette, creased crown and honest brim, the outline that outlasts the decade. Dark brown, ice-blue-eyed, watch gripped on melon — lean, older, and dressed like he means it.",
+  "image": "ipfs://QmWamY7iy1Xm15wz92iWaTQ7krMNgLN93Eiv9rnUAj54SH",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

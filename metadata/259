@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #259 — CIRRUS",
+  "description": "Cirrus is the highest, thinnest cloud — visible from everywhere, rained on nothing. Ash-grey, ice-blue eyes, harmonica gripped — by the time they look again, the shape has changed.",
+  "image": "ipfs://QmdXTrMg4XvytGCiDZsMz3XcCRMdBF9FyVaNZLTvfg7w3G",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

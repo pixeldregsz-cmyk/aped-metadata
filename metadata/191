@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #191 — FLINT",
+  "description": "One match per cigarette, never the second. He does not start fires — he is just always the thing they start from.",
+  "image": "ipfs://QmdiuRe1nbtWcrHssGDi91tY6aeNYdCJy9MACV7UTUDgb5",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale gold"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-streaked black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

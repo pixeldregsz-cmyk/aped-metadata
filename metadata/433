@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #433 — SMOKE",
+  "description": "Smoke is the part of the fire that travels, visible from farther away than the fire itself. Ash-blond, hazel-eyed, cigarette to one ember on brick red — athletic, middle-aged, and the part that leaves.",
+  "image": "ipfs://Qmb6iX12MYrntwKwfdFK2RjVrzE1VjFrxeLs7VSrqNSnLZ",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal knit beanie, as delivered"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

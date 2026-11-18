@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #119 — HARD COPY",
+  "description": "He gets the story in person, in print, in the order he decides you hear it.",
+  "image": "ipfs://QmPrnbCfmLgBwxMVete1yaHJqigRsLsf6X8wWWbkEz2uS6",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "butter yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dusty brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy-and-cream panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey tweed newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

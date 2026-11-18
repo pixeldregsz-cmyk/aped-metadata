@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #22 — WHITEOUT",
+  "description": "Pale fur, red lenses. He looks through people, politely.",
+  "image": "ipfs://QmQFjxBJiBja6h2iui5JEx2RrWam2nLHhsQ9bF6k3ayUh9",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "crimson"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "pale grey-white"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "gold-and-black racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "over red"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "red aviators"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

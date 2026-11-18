@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #358 — MEMPHIS",
+  "description": "Memphis is where the blues learned to walk. Dark brown, amber-eyed, harmonica gripped on indigo — wiry, older, and playing the river's tune.",
+  "image": "ipfs://QmcbrjoZwQnvsVP6MBPKX93ZBHuLEJM3Xacxhw4eXT2iuv",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-rust , as delivered"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

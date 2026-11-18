@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #37 — HOTHEAD",
+  "description": "Carries the heat in his bare hand.",
+  "image": "ipfs://QmP61e96oGXq1fJEFEQsVLhtXuS5ASHqE77QNK6G89DVUQ",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep violet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "grey denim"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards charcoal cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "rectangular clear-lensed glasses"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "chili pepper"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

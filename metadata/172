@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #172 — WISP",
+  "description": "Thin enough that the cigarette does most of his silhouette's work. One ember, smoked slowly, in a flat cap he wears like an inheritance.",
+  "image": "ipfs://QmZvsXGyyrvqDLQP8Ero6reBYwF2Dt8UJRjMA5AfpviVcA",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-plum"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

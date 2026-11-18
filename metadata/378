@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #378 — TELLER",
+  "description": "A teller counts other people's money and never miscounts. Dark brown, amber-eyed, the gold coin offered on dusty blue — athletic, younger, and exact to the cent.",
+  "image": "ipfs://QmWBukfJN5VXosxYNC9au2dpbWE67zdRx3jQzibtQLFSS2",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

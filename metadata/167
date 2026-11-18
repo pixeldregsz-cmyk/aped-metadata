@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #167 — NATURAL",
+  "description": "The dice sit loose in his fist and come up the way they come up. He stopped arguing with odds years ago.",
+  "image": "ipfs://QmQ1eJvjmeXcJPf1uMVaQ5LnLWm7uEvaz1gqGNPag8gdCf",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grizzled salt-and-pepper"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "dark green beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

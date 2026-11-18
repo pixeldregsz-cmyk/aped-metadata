@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #148 — WAX PACK",
+  "description": "Printed forever mid-season. Somewhere a kid would trade half a shoebox for him.",
+  "image": "ipfs://QmWb2UVsXHhhRCfnNSXa4ANkSbf8D4eJSzaDuEDptYxa1C",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "sky blue (inside the card frame)"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "warm brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "two-tone baseball cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "special — the whole piece is a vintage trading card: aged cream border, halftone dot texture, red pennant stripe, worn paper edges"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

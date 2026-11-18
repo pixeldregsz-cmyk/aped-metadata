@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #351 — CALICO",
+  "description": "Calico is the printed cotton the bandanas are cut from. Auburn-red, steel-grey eyes, dice offered on dusty blue — wiry, middle-aged, and wearing the cloth itself.",
+  "image": "ipfs://QmSmGKRRWFSV4ArnfnHwnLTdZ8v3jHv7bxJB937jwoSQCR",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "auburn-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-olive"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

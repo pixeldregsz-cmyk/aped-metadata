@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #143 — DEADBOLT",
+  "description": "A key for every door in the building and opinions about all of them, kept to himself.",
+  "image": "ipfs://QmeifHb6brK1aK2P5fFmVgXQbdy1mr51w9xjbhsGW6QS49",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-blond"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive wool"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "tan fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel, bloodshot"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

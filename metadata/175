@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #175 — PLATTER",
+  "description": "He offers the record on an open palm like the good dish — flat, steady, a little proud of the weight. It is the side worth hearing.",
+  "image": "ipfs://QmYCHZyMzL2gfJpzqFZY8pedYXZHVbAR8hTHc28a2ewxR7",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

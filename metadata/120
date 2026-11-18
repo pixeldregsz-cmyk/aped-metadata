@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #120 — BOXCARS",
+  "description": "He is not bluffing about the dice. He may be bluffing about everything else.",
+  "image": "ipfs://QmXYBHYHMe5Q3QYuiUrmHMf9T1urQ4WdatFBjPFDSMALSp",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "black"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "teal nylon"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "white backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

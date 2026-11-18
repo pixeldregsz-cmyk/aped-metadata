@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #126 — DOUBLE VISION",
+  "description": "The 3D glasses are a joke he commits to completely.",
+  "image": "ipfs://QmX4tQUeFabqKsHXY9T39pieyWgMNy8SdVUNQ7c5tcGnEg",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "white"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "light brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "purple nylon"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "green backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "paper 3d glasses (red/cyan lenses)"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

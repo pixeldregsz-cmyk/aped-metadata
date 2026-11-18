@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #36 — NEEDLE",
+  "description": "Plays the side nobody flips to.",
+  "image": "ipfs://QmXpfCaWPyPWYgp2SckTBRS8mvATbVizy2jBq7tDfmT2f2",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "midnight teal"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "mahogany-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "ivory-and-copper racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "straw hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "with her"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "oversized amber-lens sunglasses"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "earrings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

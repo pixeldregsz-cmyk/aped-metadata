@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #39 — VICE",
+  "description": "Everything she offers costs more than it looks.",
+  "image": "ipfs://QmNXTy9sXzEQvKyRo5j5uXDkGKfQa6kSf75GvgRL2CzjoC",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "burnt orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "the long pale"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "worn black leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "with amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "cat-eye glasses"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

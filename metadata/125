@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #125 — CLOSING TIME",
+  "description": "The flask is not his first of the evening, and the evening is not young.",
+  "image": "ipfs://QmZFwphHdZha2G69p9ECPhgJAHC9wrYyZCTop42QXkZTLC",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "black shot with silver"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown, heavily bloodshot"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

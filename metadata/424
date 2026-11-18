@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #424 — CORNSILK",
+  "description": "Cornsilk is the pale gold thread of the cornfield, the shining strands the colour hair gets compared to in farm stories. Golden-blonde, hazel-eyed, coin offered on terracotta — younger, and the harvest paying out early.",
+  "image": "ipfs://QmNY6RugAZ8DRABeJtdSgZ9kj3prTHZ2rkj758Vshp7BBr",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "terracotta"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy headband, as delivered"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set, reading medium as delivered"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

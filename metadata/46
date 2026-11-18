@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #46 — GREENLIGHT",
+  "description": "Her yes means go. Her no means gone.",
+  "image": "ipfs://QmRQSzDoyJEbweGfcn2r6kzuocyFJvC1gfMZF8muN1vgLF",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "holds deep purple"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark copper"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "scarlet-and-black racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "with her"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "green-lens aviators"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

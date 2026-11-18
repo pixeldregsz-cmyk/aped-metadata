@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #85 — SECOND HAND",
+  "description": "He pinches the watch by its case. A man who handles time carefully.",
+  "image": "ipfs://QmbRDn1qKN4sHhRFmJXAGsf4wvjwRguphmkEwiLtgfspmX",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "oxblood"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal wool"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "round clear glasses"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; frame-left"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

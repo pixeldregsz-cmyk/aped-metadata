@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #294 — CITRINE",
+  "description": "Citrine is the golden stone that holds summer past its season. Golden-blonde, hazel-eyed, the record offered by its edge over seafoam — warmth, kept in circulation.",
+  "image": "ipfs://QmahGYvxZYmEALMWWzUvBPPV6YJHJpM2BaE4z5uR8y1kDA",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "seafoam"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-teal"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #218 — BRAID",
+  "description": "Her headband is braided — three strands doing one job, nothing loose. She offers the dice the same way: everything accounted for, nothing palmed.",
+  "image": "ipfs://Qmf4UvYv8dw1u1rUmrY6nTDJBNcuF45KD4LvJtAxfVVh42",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale mint"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "dark plum braided headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #247 — LOAM",
+  "description": "Loam is the dark earth that grows things anyway. Dark brown going grey at the muzzle, green-eyed, thick cigar — nothing rich was handed to him; he is what rich is made from.",
+  "image": "ipfs://QmXktUhzZghVeCEkLSRh639cLPWzN6i7uoJ9xxgptA5Mrd",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark brown, grey creeping in at the muzzle"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "tan-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #53 — COLD DECK",
+  "description": "The ace was always in her palm. You just looked late.",
+  "image": "ipfs://QmQvmN4eVWwjQWvgLN3q4FycHbpPcPRv5hV2UV7jXoTibM",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "olive drab"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "auburn"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream suede"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "deep red bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "s ice-blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "ace card"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #320 — ROWAN",
+  "description": "The rowan is the red-berried tree planted by doors to keep the house honest. Chestnut, ice-blue eyes, the watch chained across his fingers on dusty rose — wiry, middle-aged, and posted at the threshold.",
+  "image": "ipfs://QmRZcd91cNERvBbUiD1jQVhACt1Y8XPW3afcGCbaSjeqKN",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty rose"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-plum"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

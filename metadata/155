@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #155 — VELVET ROLL",
+  "description": "She offers the roll the way other people offer a handshake.",
+  "image": "ipfs://QmQXWAsm1svHfMfayznLerdpGCnnfMM7r2FgrxyqTNH8o7",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty lavender"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark chocolate-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust suede"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

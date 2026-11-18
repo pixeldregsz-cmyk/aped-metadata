@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #254 — HEATHER",
+  "description": "Heather covers whole hillsides in purple and asks for nothing but poor soil. Golden-blonde, amber-eyed, the key in her palm — delicate is the word people use before they try to pull her up.",
+  "image": "ipfs://QmNwCJB1kJykcry4GUVSYRb8dPGVRtPnAL5bW8rD2emJio",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "sage"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

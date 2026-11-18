@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #201 — PALM",
+  "description": "She offers the coin flat in her palm and lets you read the stamp yourself. The coin is the whole reading — take it or leave it in the hand it came in.",
+  "image": "ipfs://QmSYaaAB2KYZEkX99YJbyjgCpRdXp7kgDKRyqo3otCn1pd",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "brick red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "honey-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

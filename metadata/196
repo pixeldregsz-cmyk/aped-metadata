@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #196 — FLORIN",
+  "description": "The coin is old money and he is new money, and the offer sits flat between the two. Spend it fast, is his advice — it was minted to move.",
+  "image": "ipfs://QmehU9k5PVkhbiqk92x7mwfa2xcRE6whUT6hDqUha12jGG",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "rust-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "gold coin"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

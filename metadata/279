@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #279 — BORDEAUX",
+  "description": "Bordeaux is the burgundy red you wait years to pour. Ash-grey, amber-eyed, flask gripped like the good bottle in a dry county — some things improve by being kept; he is the evidence and the storage.",
+  "image": "ipfs://QmdVS9fGJYJYD1t1MaumJbwwM7E7cXdtC4sGw6o9JS4MBX",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "ochre"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "tan flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

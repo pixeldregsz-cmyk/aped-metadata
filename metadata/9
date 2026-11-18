@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #9 — OUTLAW",
+  "description": "Rose lenses, red paisley. She smokes like she means it.",
+  "image": "ipfs://QmcdSC7HYuwJooD8VTDCYMkGGaJURXVA464WSj4smP5v6c",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep olive green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "long honey-blonde wavy"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "wine-red leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

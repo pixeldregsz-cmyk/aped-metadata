@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #40 — MATINEE",
+  "description": "Watches the world in two colours at once.",
+  "image": "ipfs://QmRjQCaeRbgpvVXD2PWCzWTCrFFpdkskKe6j7srh4SP286",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "goldenrod"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-streaked dark"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "orange-and-black racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "with both"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "d glasses"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "blunt"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

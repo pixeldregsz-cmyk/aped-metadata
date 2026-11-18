@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #142 — KNUCKLEBONE",
+  "description": "He throws like the dice are older than the game.",
+  "image": "ipfs://QmfG14rUyLo2M12mDD5Z8sw3gXWsUFn67pjKuytGzmQD6X",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "aqua"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "red leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "mustard flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

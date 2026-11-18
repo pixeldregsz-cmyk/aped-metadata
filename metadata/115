@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #115 — CAYENNE",
+  "description": "Nothing about her is mild, including the hospitality. Taste first.",
+  "image": "ipfs://QmRDkc4ZDDdLZzGH8dDuZvDEMsfSDBaSyzgYxif939A57V",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "apricot"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "smoky grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-gold panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "green, heavy-lidded"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "chili pepper"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

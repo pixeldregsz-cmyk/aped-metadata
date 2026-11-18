@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #260 — CORDOVAN",
+  "description": "Cordovan is the burgundy-brown leather that takes a year to make and a generation to wear out. Dark mahogany, hazel-eyed, flask gripped — nothing about him was rushed; that is the shine.",
+  "image": "ipfs://QmQgNCyKDj5H8xGuoryM6ZVTSJdG94oSgcVxL5m1komsWd",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark mahogany"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

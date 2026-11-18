@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #256 — BISON",
+  "description": "A bison does not charge often, and the infrequency is the warning system. Massive, deep brown, bloodshot red eyes, thick cigar — when something this size is calm, it is a decision.",
+  "image": "ipfs://QmQtwVzxBQPvYJwnCGDd41K7mFvjuEyo7ich5Y7duvNXLp",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "deep brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "charcoal-and-mustard"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "heavily bloodshot red"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

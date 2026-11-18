@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #412 — BRUISER",
+  "description": "A bruiser is the fellow whose face keeps the receipts, every stitch a night that ended with him still standing. Golden-brown, brown-eyed, cigarette pinched on slate — heavy-set, younger, and the climate, not the weather.",
+  "image": "ipfs://QmVvxTGZpFk3ADV3DCQnFowAHTfqv9ERVa3MK6t2Kq6Tyz",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "rust-and-cream"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "charcoal newsboy cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches; lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

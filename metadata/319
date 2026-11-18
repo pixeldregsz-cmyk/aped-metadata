@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #319 — DOLMEN",
+  "description": "A dolmen is the oldest table there is — grey stones stood up, one laid across. Grey-white, hazel-eyed, flask gripped on slate — massive, older, and still standing.",
+  "image": "ipfs://QmTvE6hUKpB5NdufvVWvqcnf64J3MSM3nqM4dfuRFTtf6E",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "grey-white"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "plum bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #17 — GRIZZLY",
+  "description": "Salt, pepper, and corduroy. Heavy in every sense.",
+  "image": "ipfs://QmebonkotgszRB9MVBaMndRPGPXy4XYHUFqUsXmgS3RwJE",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "copper-brown"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "salt-and-pepper grizzled"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "forest-green corduroy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards grey cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

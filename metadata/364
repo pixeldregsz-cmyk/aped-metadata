@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #364 — BRACKEN",
+  "description": "Bracken is the fern that greens in spring and rusts by autumn. Silver-grey, hazel-eyed, the record offered on seafoam — heavy-set, older, and in both seasons.",
+  "image": "ipfs://QmSv4LBmTVampjh7qZ4tPgzX8xfgFYGD3ANNHRp7P2k659",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "seafoam"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "dark green knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #384 — MINT",
+  "description": "Mint is where the coins are struck and the leaf that cools. Golden-blonde, hazel-eyed, the record offered on pale mint — athletic as delivered, younger, and fresh-struck.",
+  "image": "ipfs://QmakVve1AKqNRD6NXMKAt2zgjxwA2tjSdqAJVvEFbRmt4U",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale mint, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plum-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "black headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set, reads athletic as delivered"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

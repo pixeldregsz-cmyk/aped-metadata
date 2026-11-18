@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #16 — IRON MAIDEN",
+  "description": "Silver-blue and unbothered. The spectacles miss nothing.",
+  "image": "ipfs://QmchrSRd9zhxTQgT9na4wBvjZdS8cJ7ktFxjaKdJviHhze",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "wine"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "silver-blue grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "tan suede"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "cream cable-knit beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "hard level gaze through round clear spectacles"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "blunt"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "petite"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "earrings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

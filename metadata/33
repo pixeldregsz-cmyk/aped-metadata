@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #33 — RIGGED",
+  "description": "The dice land where she puts them.",
+  "image": "ipfs://QmcmykJYcHzqgd7PSqYMVFuae69cFMwSp2mmWzrdvwer2U",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "deep plum"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark taupe"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "electric-blue racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "gold-rimmed glasses"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "earrings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

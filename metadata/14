@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #14 — REDLINE",
+  "description": "Scarlet jacket, white cap. She keeps her own pace.",
+  "image": "ipfs://Qmd6KJisn6txNkUKMsLQvJX3R1p7VsgBRnH1G2BWQtkqoY",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "plum"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark walnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "scarlet racing"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "backwards white cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigarette"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

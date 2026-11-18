@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #304 — SHOAL",
+  "description": "A shoal is where the gold sand rises into green water. Golden-blonde, hazel-eyed, the record offered by its edge over seafoam — young, athletic, and shallower than she looks, on purpose.",
+  "image": "ipfs://QmYXA4tZaq6cKcjLjrRHD22bKVE256bXhnfPsSf9cweZhB",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "seafoam"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "golden-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black-and-mustard"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy braided headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "vinyl record"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

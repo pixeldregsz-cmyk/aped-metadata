@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #67 — SILVER TONGUE",
+  "description": "Pearl grey and patient. The harmonica does her arguing.",
+  "image": "ipfs://QmQHSnLf65c2qJ49SLBAgQpRKL28zS41KC8eWxJbJTQmeT",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "charcoal grey"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "pearl grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "grey henley under a mustard-and-black panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "cream beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ice-blue"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "cheek stitches"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

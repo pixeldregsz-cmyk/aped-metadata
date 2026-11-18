@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #69 — BARREL",
+  "description": "Deep chestnut and built wide. The cigar stays lit.",
+  "image": "ipfs://Qmd9CuAJTz8iybnt3xJBSN1smkKqyRXejqntH6gN3GCD94",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "pale lime"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "deep chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-grey panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "grey beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

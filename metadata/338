@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #338 — SAVANNA",
+  "description": "The savanna is tawny grass under a wide blue sky. Tawny, amber-eyed, harmonica gripped on dusty blue — athletic, middle-aged, and built to travel.",
+  "image": "ipfs://QmXY6iSj8v1M3FjD8WfMFtUd5adokFB6sJvhy3u8xpDmoc",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue, as delivered"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "teal headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "lip rings"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

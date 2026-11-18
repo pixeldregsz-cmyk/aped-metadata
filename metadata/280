@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #280 — BUCKEYE",
+  "description": "A buckeye is the glossy chestnut-brown nut carried for luck and never spent. Massive, chestnut, steel-grey eyes, the watch offered lid-open — carried long enough, anything becomes a charm.",
+  "image": "ipfs://QmS5mA7rNvNvwMaUu9XBoq5zJWTWbN8CUCfXQ548hoWhaK",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "melon"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "chestnut"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-plum"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "navy flat cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "steel grey"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "pocket watch"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

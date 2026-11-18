@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #121 — CANTEEN",
+  "description": "She packs for other people's emergencies and drinks from the same flask either way.",
+  "image": "ipfs://QmU2HuZXg5gMymzAjPQRqkHaxAshanb2wLFseBx12bqkTy",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "sky blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "dark blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "grey henley under olive canvas"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "red bucket hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

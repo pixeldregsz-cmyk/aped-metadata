@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #76 — FOCUS",
+  "description": "Ash grey, monocle chained. The key is already in his palm.",
+  "image": "ipfs://QmcA2q5sUs7QXaa6iC6gAMGt4T2KWj6htDpa33dXa6HyEm",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "warm sand"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "burgundy leather"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "brown beret"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "brass monocle"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

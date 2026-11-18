@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #152 — STOWAWAY",
+  "description": "A tiny steel passenger rides in his chest pocket. He acts like it is not there.",
+  "image": "ipfs://QmfEsuGmgfXSNPS3cAKW1TiocbuMvz6Cny8zTzK7HPasXv",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "light ash-brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "olive canvas with chest pocket"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "burgundy beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "thick cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "wiry"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "special — the passenger: a tiny brushed-steel robot riding in the chest pocket, tiny fingers gripping the pocket edge, one glowing cyan eye on the viewer"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #62 — BRONCO",
+  "description": "Cowboy hat on a door-sized frame. Nobody moves him either.",
+  "image": "ipfs://QmcN22DqzGwGMdxXcsRGY3k4fBx1Gutf9a5QoxtTq4esni",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "dusty blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "ash brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "cream-and-brown panelled"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "cowboy hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "massive"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

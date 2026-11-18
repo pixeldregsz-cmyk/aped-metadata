@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #25 — COPPERHEAD",
+  "description": "Copper fur, grey tweed. Built wide, speaks low.",
+  "image": "ipfs://QmVU3gyXYhkDofDnG6eHLWn4P12RdE4hQQsVQFVPa714Cv",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "burnt sienna"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "copper-red"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "grey tweed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "none (bare head)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "heavy-set"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

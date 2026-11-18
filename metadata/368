@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #368 — MESQUITE",
+  "description": "Mesquite is the desert tree they smoke the meat over. Tawny-gold, hazel-eyed, harmonica gripped on indigo — athletic, older, and burned in sweet.",
+  "image": "ipfs://QmYUFgUJxX8vpfzqnB3dghFUwo7ZV3N6zKQ39mHXLsETiC",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "indigo"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "tawny-gold"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy-and-rust"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "rust headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "harmonica"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

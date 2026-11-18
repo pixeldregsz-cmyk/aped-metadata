@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #204 — MUSTARD",
+  "description": "She offers the brass key flat and does not say which door, because that is the entire point of a key. Take it — you will know the door when you are standing at it.",
+  "image": "ipfs://QmStsxfEr58TgJ8BU4sppvsq3KjGjyMthbJS7jhvQVZsvd",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "slate blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "white-grey"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "mustard-and-black"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "mustard bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "amber"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "brass key"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

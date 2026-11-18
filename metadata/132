@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #132 — HARD EIGHT",
+  "description": "She does not wish anyone luck. She considers it an insult to the dice.",
+  "image": "ipfs://QmXo1S6t8mHpbjWQuPhgZcXQi48fG2gb6AJJZDQnpkKzCG",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "coral pink"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "honey-blonde"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black tank under denim"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "white bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "dice"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "offer"
+    },
+    {
+      "trait_type": "Build",
+      "value": "athletic"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}

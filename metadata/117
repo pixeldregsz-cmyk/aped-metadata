@@ -1,0 +1,63 @@
+{
+  "name": "ApEd #117 — TRAVELER",
+  "description": "His flask is gripped like a ticket stub. He reads departure boards first, people second.",
+  "image": "ipfs://QmNr5Mqxw9Sgc4Ux5L7S155DNus8LRQK22JEUBvM4oj9Ko",
+  "attributes": [
+    {
+      "trait_type": "Field",
+      "value": "violet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "sandy brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "yellow nylon"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "navy backwards cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "hazel"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "hip flask"
+    },
+    {
+      "trait_type": "Gesture",
+      "value": "presented"
+    },
+    {
+      "trait_type": "Build",
+      "value": "lean"
+    },
+    {
+      "trait_type": "Marks",
+      "value": "none"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Base"
+    }
+  ]
+}
